@@ -27,7 +27,7 @@ EcoGuard-AI/
 
 ---
 
-## 1) README.md (copy this content into `README.md`)
+## 1) README.md 
 
 ````markdown
 # EcoGuard-AI
